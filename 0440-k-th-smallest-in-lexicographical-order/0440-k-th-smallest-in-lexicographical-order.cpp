@@ -1,34 +1,28 @@
+using namespace std;
 class Solution {
 public:
-    int findKthNumber(int n, int k) {
-        int currentPrefix = 1;
-        --k;  // Decrement k to handle zero-based indexing
-        
-        while (k > 0) {
-            int count = countNumbersWithPrefix(currentPrefix, n);
-            if (k >= count) {
-                ++currentPrefix;  // Move to the next prefix
-                k -= count;
-            } else {
-                currentPrefix *= 10;  // Go deeper in the current prefix
-                --k;
-            }
-        }
-        
-        return currentPrefix;
+    static int findKthNumber(int n, int K) {
+        return solve(0, n, K);
     }
 
-private:
-    int countNumbersWithPrefix(int prefix, int n) {
-        long long firstNumber = prefix, nextNumber = prefix + 1;
-        int totalCount = 0;
+    static int solve(long long current, long long n, long long k) {
+        if (k == 0)
+            return (int)(current / 10);
 
-        while (firstNumber <= n) {
-            totalCount += static_cast<int>(min(n + 1LL, nextNumber) - firstNumber);
-            firstNumber *= 10;
-            nextNumber *= 10;
+        for (long long i = max(current, 1LL); i < current + 10; ++i) {
+            long long count = numOfChildren(i, i + 1, n);
+            if (count >= k)
+                return solve(i * 10, n, k - 1);
+            k -= count;
         }
+        return -1;
+    }
 
-        return totalCount;
+    static long long numOfChildren(long long current, long long neighbour, long long n) {
+        if (neighbour > n) {
+            if (current > n) return 0;
+            return n - current + 1;
+        }
+        return neighbour - current + numOfChildren(current * 10, neighbour * 10, n);
     }
 };
