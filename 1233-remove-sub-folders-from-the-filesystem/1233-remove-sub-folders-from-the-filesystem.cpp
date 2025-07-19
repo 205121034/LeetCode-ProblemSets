@@ -1,26 +1,18 @@
 class Solution {
 public:
-    static vector<string> removeSubfolders(vector<string>& folder) {
-        const int n=folder.size();
-        sort(folder.begin(), folder.end());
-        vector<string> ans={folder[0]};
-    //    ans.reserve(40000);
-        string prev=folder[0];
-        for(int i=1; i<n; i++){
-            string s=folder[i];
-            if (s.find(prev+'/')!=0){
-                ans.push_back(s);
-                prev=s;
+    vector<string> removeSubfolders(vector<string>& folder) {
+        unordered_set<string> dirSet(folder.begin(), folder.end());
+        vector<string> res;
+        for (const string& dir : folder) {
+            res.push_back(dir);
+            for (int i = 0; i < dir.size(); ++i) {
+                if (dir[i] == '/' && dirSet.count(dir.substr(0, i))) {
+                    res.pop_back();
+                    break;
+                }
             }
         }
-        return ans;
+        
+        return res;
     }
 };
-
-
-auto init = []() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return 'c';
-}();
