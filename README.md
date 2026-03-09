@@ -146,6 +146,7 @@ Happy coding! 🚀
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +211,7 @@ Happy coding! 🚀
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
