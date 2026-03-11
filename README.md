@@ -177,6 +177,7 @@ Happy coding! 🚀
 | [1435-xor-queries-of-a-subarray](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1009-complement-of-base-10-integer](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
