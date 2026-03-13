@@ -42,6 +42,7 @@ Happy coding! 🚀
 | [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,11 +114,13 @@ Happy coding! 🚀
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2803-modify-graph-edge-weights](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 | [1325-path-with-maximum-probability](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +141,7 @@ Happy coding! 🚀
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [0729-my-calendar-i](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -273,6 +277,7 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
