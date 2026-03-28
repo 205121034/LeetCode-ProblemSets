@@ -42,6 +42,7 @@ Happy coding! 🚀
 | [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -62,6 +63,7 @@ Happy coding! 🚀
 | [0567-permutation-in-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0567-permutation-in-string) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +88,7 @@ Happy coding! 🚀
 | [2132-convert-1d-array-into-2d-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Hash Table
@@ -224,6 +227,7 @@ Happy coding! 🚀
 | ------- | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -284,11 +288,13 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
