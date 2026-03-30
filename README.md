@@ -64,6 +64,7 @@ Happy coding! 🚀
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Happy coding! 🚀
 | [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0567-permutation-in-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0567-permutation-in-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ Happy coding! 🚀
 | [0539-minimum-time-difference](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
