@@ -47,6 +47,7 @@ Happy coding! 🚀
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,7 @@ Happy coding! 🚀
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -237,6 +239,7 @@ Happy coding! 🚀
 | [2755-extra-characters-in-a-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
