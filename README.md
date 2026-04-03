@@ -48,6 +48,7 @@ Happy coding! 🚀
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +159,7 @@ Happy coding! 🚀
 | [0731-my-calendar-ii](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0731-my-calendar-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +221,7 @@ Happy coding! 🚀
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2751-robot-collisions](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +243,7 @@ Happy coding! 🚀
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
