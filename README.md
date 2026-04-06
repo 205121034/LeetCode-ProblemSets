@@ -41,6 +41,7 @@ Happy coding! 🚀
 | [1256-rank-transform-of-an-array](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [0874-walking-robot-simulation](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2751-robot-collisions/) | Hard |
@@ -115,6 +116,7 @@ Happy coding! 🚀
 | [1694-make-sum-divisible-by-p](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0567-permutation-in-string](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/0567-permutation-in-string) |
+| [0874-walking-robot-simulation](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Graph
 | Problem Name | Difficulty |
@@ -152,6 +154,7 @@ Happy coding! 🚀
 | [2155-find-missing-observations](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [0657-robot-return-to-origin](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0874-walking-robot-simulation](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0874-walking-robot-simulation/) | Medium |
 | [2751-robot-collisions](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2751-robot-collisions/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
