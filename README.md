@@ -49,6 +49,7 @@ Happy coding! 🚀
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## String
 | Problem Name | Difficulty |
@@ -330,4 +331,8 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
