@@ -43,6 +43,7 @@ Happy coding! 🚀
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/034-BikashKumarYadav/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [0874-walking-robot-simulation](https://github.com/205121034/LeetCode-ProblemSets/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2751-robot-collisions](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2751-robot-collisions/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -314,6 +315,7 @@ Happy coding! 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/205121034/LeetCode-ProblemSets/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/205121034/LeetCode-ProblemSets/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/205121034/LeetCode-ProblemSets/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
